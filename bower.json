@@ -2,12 +2,12 @@
   "name": "angular-ui-grid",
   "version": "3.0.0-rc.16",
   "main": [
-    "./ui-grid.css",
-    "./ui-grid.eot",
-    "./ui-grid.js",
-    "./ui-grid.svg",
-    "./ui-grid.ttf",
-    "./ui-grid.woff"
+    "ui-grid.css",
+    "ui-grid.eot",
+    "ui-grid.js",
+    "ui-grid.svg",
+    "ui-grid.ttf",
+    "ui-grid.woff"
   ],
   "ignore": [],
   "dependencies": {
